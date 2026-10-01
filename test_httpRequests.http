@@ -1,0 +1,4 @@
+@hostname = http://localhost:8091/
+###
+
+POST {{hostname}}/admin/reset
